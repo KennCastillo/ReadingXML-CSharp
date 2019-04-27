@@ -1,0 +1,10 @@
+E:\ejemplos\ReadingXML\ReadingXML\bin\Debug\ReadingXML.exe.config
+E:\ejemplos\ReadingXML\ReadingXML\bin\Debug\ReadingXML.exe
+E:\ejemplos\ReadingXML\ReadingXML\bin\Debug\ReadingXML.pdb
+E:\ejemplos\ReadingXML\ReadingXML\obj\Debug\ReadingXML.csprojAssemblyReference.cache
+E:\ejemplos\ReadingXML\ReadingXML\obj\Debug\ReadingXML.Form1.resources
+E:\ejemplos\ReadingXML\ReadingXML\obj\Debug\ReadingXML.Properties.Resources.resources
+E:\ejemplos\ReadingXML\ReadingXML\obj\Debug\ReadingXML.csproj.GenerateResource.cache
+E:\ejemplos\ReadingXML\ReadingXML\obj\Debug\ReadingXML.csproj.CoreCompileInputs.cache
+E:\ejemplos\ReadingXML\ReadingXML\obj\Debug\ReadingXML.exe
+E:\ejemplos\ReadingXML\ReadingXML\obj\Debug\ReadingXML.pdb
